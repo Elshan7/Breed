@@ -598,8 +598,11 @@ footer {
         justify-content: center;
     }
 
-    main .sct2 .sct2-images .part2 .flex img {
-        width: 80%;
+    main .sct2 .sct2-images .part2 .flex .img {
+        width: 90%;
+    }
+    main .sct2 .sct2-images .part2 .flex .img img {
+        width: 100%;
     }
 
 }
